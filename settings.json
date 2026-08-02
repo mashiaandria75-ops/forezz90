@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "andriasmp-7bUG.aternos.me ",
+    "ip": "andriasmp-7bUG.aternos.me:13570 ",
     "port": 13570,
     "version": "",
     "try-creative": false
